@@ -77,7 +77,7 @@
       <PreprocessorDefinitions>WIN32;_WINDOWS;_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>D:\VisualStudio\visualstudioprojects\xCom\include\asio\asio-1.36.0\include;D:\VisualStudio\visualstudioprojects\xCom\libs\imgui;D:\VisualStudio\visualstudioprojects\xCom\libs\backends;D:\VisualStudio\visualstudioprojects\xCom\libs\SDL2\SDL2-2.28.5\include;D:\VisualStudio\visualstudioprojects\xCom\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)include\asio\asio-1.36.0\include\;$(ProjectDir)include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -94,7 +94,7 @@
       <PreprocessorDefinitions>WIN32;_WINDOWS;_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>D:\VisualStudio\visualstudioprojects\xCom\include\asio\asio-1.36.0\include;D:\VisualStudio\visualstudioprojects\xCom\libs\imgui;D:\VisualStudio\visualstudioprojects\xCom\libs\backends;D:\VisualStudio\visualstudioprojects\xCom\libs\SDL2\SDL2-2.28.5\include;D:\VisualStudio\visualstudioprojects\xCom\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)include\asio\asio-1.36.0\include\;$(ProjectDir)include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -109,7 +109,7 @@
       <PreprocessorDefinitions>WIN32;_WINDOWS;_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>D:\VisualStudio\visualstudioprojects\xCom\include\asio\asio-1.36.0\include;D:\VisualStudio\visualstudioprojects\xCom\libs\imgui;D:\VisualStudio\visualstudioprojects\xCom\libs\backends;D:\VisualStudio\visualstudioprojects\xCom\libs\SDL2\SDL2-2.28.5\include;D:\VisualStudio\visualstudioprojects\xCom\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)include\asio\asio-1.36.0\include\;$(ProjectDir)include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -126,7 +126,7 @@
       <PreprocessorDefinitions>WIN32;_WINDOWS;_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>D:\VisualStudio\visualstudioprojects\xCom\include\asio\asio-1.36.0\include;D:\VisualStudio\visualstudioprojects\xCom\libs\imgui;D:\VisualStudio\visualstudioprojects\xCom\libs\backends;D:\VisualStudio\visualstudioprojects\xCom\libs\SDL2\SDL2-2.28.5\include;D:\VisualStudio\visualstudioprojects\xCom\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)include\asio\asio-1.36.0\include\;$(ProjectDir)include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
